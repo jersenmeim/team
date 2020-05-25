@@ -1,0 +1,19 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "| Jarom Apor | Jersen Meim | Maron Pilande | Darwin Manlapat | Jennylyn Larcena | Mariel Rebutar",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss build tailwindSrc.css -o tailwindDist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:Jersenmeim/team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
